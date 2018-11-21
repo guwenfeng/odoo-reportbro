@@ -1,5 +1,8 @@
 # odoo-reportbro
 odoo集成reportbro实现单据套打、批量打印、条码及图片打印等
+# 11.0
+
+安装：1、下载后修改模块名称为inspur_print；2、初始数据中account_china改为account；
 # 服务端：
 1、虚拟机Ubuntu16.04.4
 
